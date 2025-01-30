@@ -17,6 +17,8 @@ import com.aluno_api.aluno_api.repository.AlunoRepository;
 @RequestMapping("/alunos")
 public class AlunoController {
 
+    //senai
+
     @Autowired
     private AlunoRepository alunoRepository;
 
